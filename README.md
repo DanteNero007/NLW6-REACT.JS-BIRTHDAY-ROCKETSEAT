@@ -1,6 +1,6 @@
 # NLW6-REACT.JS-BIRTHDAY-ROCKETSEAT
 Projeto criado na semana da Next-Level-week da Rocktseat
-<img src =  ></img>
+<img src = https://user-images.githubusercontent.com/81530464/123528079-56e4dd80-d6bb-11eb-9e3f-6b7d9f3b461f.gif></img>
 <h2>Sobre o Projeto</h2>
 Uma plataforma de perguntas em realtime 
 
