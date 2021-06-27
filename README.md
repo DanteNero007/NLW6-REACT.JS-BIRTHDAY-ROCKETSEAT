@@ -31,6 +31,7 @@ Uma plataforma de perguntas em realtime
  <li>Uso de tipagens utilizando o TypeScript</li>
 </ul>
 
+ <ul>
  <li><h2>Milha extra....</h2></li>
  <li>Tema Dark-Mode </li>
  <li>Logout da aplicação</li>
